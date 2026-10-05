@@ -48,7 +48,7 @@ Lumo is a Flutter mobile app that demonstrates a clean, minimal Login and Regist
 
 2. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/AlastrimDEV/flutter-login-register-page
    cd <project-folder>
    ```
 
